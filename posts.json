@@ -1,0 +1,29 @@
+[
+  {
+    "poster_name": "Johnny",
+    "poster_avatar": "../static/img/ava1.png",
+    "pic": "../static/img/post1.jpg",
+    "content": "Это текст к посту по которому я проверю как он будет сокращатся, по идее будет несколько первых символов а потом две точки",
+    "views_count": 212,
+    "likes_count": 60,
+    "pk": 1
+  },
+  {
+    "poster_name": "username",
+    "poster_avatar": "здесь будет фотка",
+    "pic": "картинка поста",
+    "content": "текст поста",
+    "views_count": "количество просмотров",
+    "likes_count": "количество лайков",
+    "pk": "ID поста"
+  },
+  {
+    "poster_name": "username",
+    "poster_avatar": "здесь будет фотка",
+    "pic": "картинка поста",
+    "content": "текст поста",
+    "views_count": "количество просмотров",
+    "likes_count": "количество лайков",
+    "pk": "ID поста"
+  }
+]
